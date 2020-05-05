@@ -44,6 +44,13 @@
     2) Enter your new voice password.
     3) Confirm your new voice password.
     4) Resetted!
+# Output:
+    Reset Code: 123
+    OK!
+    New Voice Password: pass
+    Confirm Password: pass
+    Reseting password...
+
 
 # USAGE:
 
