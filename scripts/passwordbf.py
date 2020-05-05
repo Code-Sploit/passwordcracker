@@ -21,7 +21,7 @@ def main():
     
     print(colors.CYAN + "Cracking UNIX password for user... " + username)
 
-    dict_file = open("dictionary.txt")
+    dict_file = open("Lib/dictionary.txt")
     encrypted_password = getspnam(username)[1]
 
     print(colors.CYAN + "Encrypted password looks to be: " + colors.YELLOW + encrypted_password)
