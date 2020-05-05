@@ -27,8 +27,8 @@
 
     Installing Required Modules...
     Requirement already satisfied: colorama in /usr/lib/python3/dist-packages (from -r lib/modules.lst (line 1)) (0.4.3)
-    Requirement already satisfied: SpeechRecognition in /home/skyfight/.local/lib/python3.8/site-packages (from -r lib/modules.lst  (line 2)) (3.8.1)
-    Requirement already satisfied: pyttsx3 in /home/skyfight/.local/lib/python3.8/site-packages (from -r lib/modules.lst (line 3))      (2.87)
+    Requirement already satisfied: SpeechRecognition in /home/bob/.local/lib/python3.8/site-packages (from -r lib/modules.lst  (line 2)) (3.8.1)
+    Requirement already satisfied: pyttsx3 in /home/bob/.local/lib/python3.8/site-packages (from -r lib/modules.lst (line 3))      (2.87)
     Done installing Required Modules...
 
 
