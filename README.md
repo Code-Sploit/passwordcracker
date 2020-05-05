@@ -3,7 +3,7 @@
 
 # Installation:
 
-    cmd:    python setup.py install
+    $ python setup.py install
 
 # Steps:
     1) Enter the voice password what you want to use.
@@ -13,7 +13,7 @@
 
 # PASSWORD RESETTING:
 
-    cmd:    python setup.py reset
+    $ python setup.py reset
 
 # Steps:
     1) Enter your current resetcode.
@@ -23,7 +23,7 @@
 
 # USAGE:
 
-    cmd:    sudo python cracker.py [username | nothing]
+    $ sudo python cracker.py [username | nothing]
 
 # COPYRIGHT:
 
